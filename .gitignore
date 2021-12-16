@@ -3,6 +3,7 @@ venv/
 
 # Database
 db.sqlite3
+blogpy_postgresql
 
 # Migrations
 blog/migrations/
